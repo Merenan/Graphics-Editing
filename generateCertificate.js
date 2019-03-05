@@ -10,7 +10,6 @@ let imgRaw = 'raw/CertificateTemplate.jpg';
 
 // Targets for active use and saving
 let imgActive = 'active/image.jpg';
-let imgExported = 'export/' + name + 'Certificate.jpg';
 var imgBase = '';
 
 // Fill in the image's dimensions
